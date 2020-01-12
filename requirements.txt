@@ -1,0 +1,14 @@
+package-json
+requests
+numpy
+opencv-python
+scipy
+matplotlib
+requests
+tensorflow==2.0.0
+numpy
+opencv-python
+scipy
+matplotlib
+Pillow
+Keras==2.3.1
