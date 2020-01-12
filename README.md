@@ -14,7 +14,7 @@
 * If you do not have an Empathy account, you will first need to [sign up](https://www.empathy.oracliom.com/access/register) yourself. Please, take into consideration that the username with which you are signing up is the one you will later on give as input on the program.
 
 
-![alt text](https://github.com/Nanodayo23/Richard-Face-Recognition/images/Empathy-register.jpg)
+![alt text](https://github.com/Nanodayo23/Richard-Face-Recognition/images/Empathy-register.jpg "Empathy sign up page")
 
 
 
