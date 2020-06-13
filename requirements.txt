@@ -1,6 +1,5 @@
 package-json
 requests
-numpy
 opencv-python
 scipy
 matplotlib
