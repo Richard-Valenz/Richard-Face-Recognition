@@ -4,7 +4,7 @@ opencv-python
 scipy
 matplotlib
 requests
-tensorflow==2.0.1
+tensorflow==2.0.3
 numpy
 opencv-python
 scipy
